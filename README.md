@@ -1,3 +1,1 @@
-# CSCE3193
-# CSCE3193
-# CSCE3193
+Programs are written in Java, PHP, and Python
